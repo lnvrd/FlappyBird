@@ -1,2 +1,0 @@
-# FlappyBird
-Mon flappy bird
