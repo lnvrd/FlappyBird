@@ -43,9 +43,6 @@ bird_group.add(flappy)
 
 
 
-
-
-
 run = True
 
 while run:
